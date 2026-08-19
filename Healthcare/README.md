@@ -48,12 +48,11 @@ Additional concepts used across the project include:
 ## 📂 Project Structure
 
 ```text
-Social-Media-Analytics/
+Healthcare-Analytics/
 │
 ├── README.md
-├── social_media_analytics_schema.sql
-├── social_media_analytics_data.sql
-└── social_media_analytics_queries.sql
+├── Healthcare_Analytics_DB.sql
+└── Healthcare_Analytics_Queries.sql
 ```
 
 ### 1️⃣ Schema File

@@ -103,7 +103,7 @@ This project is released for educational/portfolio use. Sample data is fictional
 
 **Fuzail Salmani**
 
-SQL Database Project | StudentDB
+SQL Database Project | Netflix Clone
 
 ---
 

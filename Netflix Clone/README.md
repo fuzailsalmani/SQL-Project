@@ -23,9 +23,7 @@ netflix-database-clone/
 ├── README.md                    ← you are here
 ├── schema.sql                   ← database + table + index definitions only
 ├── data.sql                     ← all INSERT statements (genres, actors, movies, shows, ratings)
-├── netflix_clone_complete.sql   ← ONE-FILE script: schema + data, ready to run top to bottom
 ├── queries.sql                  ← 33 practice queries, beginner → advanced, each explained
-└── er_diagram.png               ← exported from MySQL Workbench (see instructions below)
 ```
 
 ## 🧩 Entity-Relationship Overview
